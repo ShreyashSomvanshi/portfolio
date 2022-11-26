@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../portfolio/Ankit_cnarte"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap_resume"
+	}
+}
